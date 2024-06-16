@@ -53,7 +53,7 @@ body {
 
 @media only screen and (max-width: 1050px) {
   .container {
-    width: 100vw;
+    width: 95vw;
   }
   .card:nth-last-of-type(1) {
     display: none;
