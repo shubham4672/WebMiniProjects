@@ -10,10 +10,10 @@ This repository contains a collection of my web projects built using HTML, CSS, 
 | 2              | Pagination           | [Link](#)                |
 | 3              | Blurry Loading       | [Link](#)                |
 | 4              | Split Landing Page   | [Link](#)                |
-| 5              | HiddenSearch         | [Link](#)                |
-| 6              | DadJokes             | [Link](#)                |
-| 7              | KeyCodes             | [Link](#)                |
-| 8              | KineticLoader        | [Link](#)                |
+| 5              | Hidden Search        | [Link](#)                |
+| 6              | Dad Jokes            | [Link](#)                |
+| 7              | Key Codes            | [Link](#)                |
+| 8              | Kinetic Loader       | [Link](#)                |
 | 9              | Auto Type Text       | [Link](#)                |
 | 10             | PasswordGenerator    | [Link](#)                |
 
