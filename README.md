@@ -7,15 +7,15 @@ This repository contains a collection of my web projects built using HTML, CSS, 
 | Project Number | Project Name         | Hosted Link              |
 |----------------|----------------------|--------------------------|
 | 1              | Expanding Cards      | [Link](#)                |
-| 2              | Project Two          | [Link](#)                |
-| 3              | Project Three        | [Link](#)                |
-| 4              | Project Four         | [Link](#)                |
-| 5              | Project Five         | [Link](#)                |
-| 6              | Project Six          | [Link](#)                |
-| 7              | Project Seven        | [Link](#)                |
-| 8              | Project Eight        | [Link](#)                |
-| 9              | Project Nine         | [Link](#)                |
-| 10             | Project Ten          | [Link](#)                |
+| 2              | Pagination           | [Link](#)                |
+| 3              | Blurry Loading       | [Link](#)                |
+| 4              | Split Landing Page   | [Link](#)                |
+| 5              | HiddenSearch         | [Link](#)                |
+| 6              | DadJokes             | [Link](#)                |
+| 7              | KeyCodes             | [Link](#)                |
+| 8              | KineticLoader        | [Link](#)                |
+| 9              | Auto Type Text       | [Link](#)                |
+| 10             | PasswordGenerator    | [Link](#)                |
 
 ## How to Use
 
