@@ -16,6 +16,8 @@ This repository contains a collection of my web projects built using HTML, CSS, 
 | 8              | Kinetic Loader       | [Link](#)                |
 | 9              | Auto Type Text       | [Link](#)                |
 | 10             | PasswordGenerator    | [Link](#)                |
+| 11             | Ripple Button Effect | [Link](#)                |
+| 12             | FAQs                 | [Link](#)                |
 
 ## How to Use
 
